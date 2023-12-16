@@ -73,7 +73,7 @@ Professionally, I frequently utilize Node.js, Express, JavaScript, and PHP to bu
 |Extra's & Personal Preferences| ![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white) ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)|
 |Certificates|![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)|
 
-<h2>📊Github Stats</h2>
+<h2>📊Github Stats / Estadisticas de GitHub</h2>
 
 | ![Estadisticas de Martin E Tristán](https://github-readme-stats.vercel.app/api?username=MartinETristan&show_icons=true&theme=chartreuse-dark) | [![GitHub Streak](https://streak-stats.demolab.com/?user=MartinETristan&theme=chartreuse-dark)](https://git.io/streak-stats) |
 | --- | --- |
