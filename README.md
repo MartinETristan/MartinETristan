@@ -22,7 +22,7 @@ Professionally, I frequently utilize Node.js, Express, JavaScript, and PHP to bu
 
 <h2>🔭 I’m currently working on / Actualmente estoy trabajando en:</h2>
 
-* **One-All Web System for a Dermatology Clinic:** _This comprehensive system is designed to monitor real-time client/server changes, providing essential information and tools to all staff members - including doctors, associates, and receptionists - as well as patients. It enables users to view, edit, and schedule appointments directly through the WebApp, streamlining clinic operations and enhancing patient engagement._
+* **All-in-One Web System for a Dermatology Clinic:** _This comprehensive system is designed to monitor real-time client/server changes, providing essential information and tools to all staff members - including doctors, associates, and receptionists - as well as patients. It enables users to view, edit, and schedule appointments directly through the WebApp, streamlining clinic operations and enhancing patient engagement._
 
 <div align= "center">
 
