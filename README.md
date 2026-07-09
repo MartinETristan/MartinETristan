@@ -8,34 +8,25 @@ With over 8 years of foundational experience in video editing and VFX, I seamles
 
 ### 🔭 Currently Working On
 
-*   **Dermatology Clinic Ecosystem**  
-    A comprehensive, real-time WebApp designed to monitor client/server changes, streamline medical scheduling, and enhance patient engagement.  
-    `Node.js` `JavaScript` `Socket.io` `MySQL` `HTML5/CSS3`
+*   **VitalSuite**  
+    A specialized ecosystem designed to connect the medical community with tools and platforms that streamline operations, allowing healthcare professionals to optimize their practice and spend less time on administration.  
 
-*   **Media & Marketing Architecture**  
-    Managing digital campaigns and high-end content pipelines to scale global outreach and doctor-patient connectivity.  
-    `Adobe Suite` `After Effects` `Premiere Pro` `Strategic Marketing`
-
+*   **TRMSystems**  
+    My software development startup focused on building tailored, scalable digital solutions, advanced architectures, and high-end pipelines for businesses and communities.
+    
 ---
 
 ### 🛠️ Tech Stack
 
 #### Development & Databases
-`JavaScript (ES6+)` • `TypeScript` • `Node.js` • `Express` • `PHP` • `SwiftUI` • `Objective-C` • `Python` • `MySQL` • `PostgreSQL` • `MongoDB` • `Firebase`
+`Typescript` • `Svelte5` • `React` • `Vite` • `Node.js` • `Express` • `SwiftUI` • `NestJS` • `Python` • `MySQL` • `PostgreSQL` 
 
 #### Tools & DevOps
-`Git` • `GitHub` • `Docker` • `Postman` • `NPM` • `Xcode` • `VS Code`
+`GitHub` • `Docker` • `Bruno` • `PNPM` • `Xcode` • `VS Code` • `Antigravity`
 
 #### Design & VFX (Background)
-`Adobe Photoshop` • `Illustrator` • `After Effects` • `Premiere Pro` • `Lightroom` • `Blender`
+`After Effects` • `Premiere Pro` • `Adobe Photoshop` • `Illustrator` • `Lightroom` • `Blender`
 
----
-
-### 🌱 Currently Expanding
-*   **Frameworks & Ecosystems:** React, Django, Laravel, Lua
-*   **Deep Dives:** Advanced TypeScript and audio/vector workflows (Audition, Sketch)
-
----
 
 ### 📊 GitHub Stats
 
