@@ -8,10 +8,10 @@ With over 8 years of foundational experience in video editing and VFX, I seamles
 
 ### 🔭 Currently Working On
 
-*   **VitalSuite**  
+*   **<a href="https://vitalsuite.app">VitalSuite</a>**  
     A specialized ecosystem designed to connect the medical community with tools and platforms that streamline operations, allowing healthcare professionals to optimize their practice and spend less time on administration.  
 
-*   **TRMSystems**  
+*   **<a href="https://trmsys.com">TRMSystems</a>**  
     My software development startup focused on building tailored, scalable digital solutions, advanced architectures, and high-end pipelines for businesses and communities.
     
 ---
